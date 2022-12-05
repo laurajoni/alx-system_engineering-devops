@@ -1,12 +1,15 @@
-total 40
--rwxr--r-- 1 root root 30 Dec  5 07:23 0-hello_world
--rwxr--r-- 1 root root 28 Dec  5 08:54 1-confused_smiley
--rwxr-xr-x 1 root root 29 Dec  5 09:34 2-hellofile
--rwxr-xr-x 1 root root 41 Dec  5 09:08 3-twofiles
--rwxr-xr-x 1 root root 34 Dec  5 09:38 4-lastlines
--rwxr-xr-x 1 root root 34 Dec  5 09:42 5-firstlines
--rwxr-xr-x 1 root root 42 Dec  5 10:11 6-third_line
--rwxr-xr-x 1 root root 72 Dec  5 10:32 7-file
--rwxr-xr-x 1 root root 36 Dec  5 11:19 8-cwd_state
--rw-r--r-- 1 root root  0 Dec  5 11:19 ls_cwd_content
--rw-r--r-- 1 root root 18 Dec  5 06:56 README.md
+total 52
+drwxr-xr-x 2 root root   239 Dec  5 11:28 .
+drwxr-xr-x 6 root root   161 Dec  5 06:53 ..
+-rwxr--r-- 1 root root    30 Dec  5 07:23 0-hello_world
+-rwxr--r-- 1 root root    28 Dec  5 08:54 1-confused_smiley
+-rwxr-xr-x 1 root root    29 Dec  5 09:34 2-hellofile
+-rwxr-xr-x 1 root root    41 Dec  5 09:08 3-twofiles
+-rwxr-xr-x 1 root root    34 Dec  5 09:38 4-lastlines
+-rwxr-xr-x 1 root root    34 Dec  5 09:42 5-firstlines
+-rwxr-xr-x 1 root root    42 Dec  5 10:11 6-third_line
+-rwxr-xr-x 1 root root    72 Dec  5 10:32 7-file
+-rw-r--r-- 1 root root 12288 Dec  5 10:48 .7-file.swp
+-rwxr-xr-x 1 root root    36 Dec  5 11:28 8-cwd_state
+-rw-r--r-- 1 root root     0 Dec  5 11:28 ls_cwd_content
+-rw-r--r-- 1 root root    18 Dec  5 06:56 README.md
